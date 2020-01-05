@@ -14,7 +14,7 @@
 >
 > 对于高级文件和目录处理，请参阅 [`shutil`](https://docs.python.org/zh-cn/3/library/shutil.html#module-shutil) 模块。
 
-[这个是我的基础学习py文件，内包含注释](github.com/david990917/Python_Standard_Tools/os/learn_os.py)
+[这个是我的基础学习py文件，内包含注释](https://github.com/david990917/Python_Standard_Tools/blob/master/os/learn_os.py)
 
 下面是一些基础的指令及含义：
 
