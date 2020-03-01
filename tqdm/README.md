@@ -21,7 +21,7 @@ urllib.request.urlretrieve(url, filename=None, reporthook=None, data=None)
 
 `filename`以此文件名保存在当前文件夹中，如果未提供此参数，则生成临时文件。
 
-如果存在``reporthook`，即钩子函数 / 回调函数。钩子函数将在建立网络连接时调用一次，之后每次读取块后调用一次。
+如果存在`reporthook`，即钩子函数 / 回调函数。钩子函数将在建立网络连接时调用一次，之后每次读取块后调用一次。
 
 该钩子将传递三个参数，到目前为止传输的块的数量，以字节为单位的块大小以及文件的总大小。
 
